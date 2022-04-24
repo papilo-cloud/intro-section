@@ -131,13 +131,9 @@ main button
     outline: none;
     background-color: var(--Almost-Black);
     border: 2px solid var(--Almost-Black);
-}
-main button a 
-{
     color: var(--Almost-White);
-    text-decoration: none;
-    font-size: 16px;
 }
+
 main .content .btn:hover, .btn:hover a
 {
     background-color: var(--Almost-White);
